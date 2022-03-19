@@ -1,14 +1,14 @@
 # Landing Page Premium with NextJS
 
-&nbsp### [Live Demo](https://premium-anaphalis-lp.netlify.app/)
+### &nbsp [Live Demo](https://premium-anaphalis-lp.netlify.app/)
 
 ![Premium Landing Page Anaphalis](https://i.ibb.co/2hcXsRx/anaphalis-ltd-lp.jpg)
 
 
-&nbsp#### Desc:
+#### &nbsp Desc:
 Landing page premium dengan nextjs raect
 
-&nbsp#### Setup:
+#### &nbsp Setup:
 1. Masuk kedalam direktori
  
 2.install depedensi dan menjalankan server
@@ -21,7 +21,7 @@ or
 3. buka browser: ```http://localhost:3000/```
 
 
-&nbsp#### Resources:
+#### &nbsp Resources:
 Thanks to JavaScript Mastery (https://twitter.com/jsmasterypro)
 !Source Code: https://github.com/djanoer/nextjs-premium-anaphalisltd-lp
 !Youtube (JavaScript Mastery): https://www.youtube.com/watch?v=iGBERMGMIvc
